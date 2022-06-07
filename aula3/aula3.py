@@ -1,0 +1,4 @@
+"""
+str - string
+"""
+print("''string''")
